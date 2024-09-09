@@ -1,0 +1,39 @@
+.container{
+    position: absolute;
+    top: 200px;
+    left: 550px;
+    height: 200px;
+    width: 250px;
+    border: solid  2px black;
+    text-align: center;
+    padding-top: 40px;
+    border-radius: 20px;
+    background-color: aqua;
+}
+#in{
+    border: 2px solid rgb(110, 110, 27);
+    border-radius: 10px;
+    height: 30px;
+    text-align:left; 
+    padding-left: 20px;
+    
+}
+button{
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color:rgb(216, 216, 204);
+}
+#result{    
+    border: 2px solid rgb(189, 167, 167);
+    width: 200px;
+    height: 30px;
+    background-color: aliceblue;
+    position: relative;
+    left: 25px;
+    bottom: 30px;
+    border-radius: 5px;
+    
+}
